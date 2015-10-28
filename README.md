@@ -1,5 +1,7 @@
 # btcrelay-fetchd
 
+[![Join the chat at https://gitter.im/ConsenSys/btcrelay-fetchd](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ConsenSys/btcrelay-fetchd?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This will periodically scan for Bitcoin blockheaders and store missing ones in btcrelay.
 
 1. `git clone https://github.com/ConsenSys/btcrelay-fetchd.git && cd btcrelay-fetchd`

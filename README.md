@@ -8,7 +8,7 @@ Everytime that a transaction is verified that's in a block header that you submi
 
 1. Run an Ethereum client, unlock an account with some Ether, and enable RPC (localhost and port 8545).
 
-1. Get the [address of the BTC Relay contract](https://github.com/ethers/btcrelay/blob/wallet/README.md#btc-relay-contract-address-and-abi)
+1. Get the [address of the BTC Relay contract](https://github.com/ethereum/btcrelay/tree/master#btc-relay-contract-address-and-abi)
 
 1. `python fetchd.py -s <YourUnlockedAccount> -r <BTCRelayAddress> -n btc --rpcPort 8545 --fetch -d --gasPrice 200000000000`  use YourUnlockedAccount
 

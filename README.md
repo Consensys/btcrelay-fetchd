@@ -1,6 +1,6 @@
 ### Why be a relayer for BTC Relay?
 
-Everytime that a transaction is verified that's in a block header that you submit, you will earn Ether fees.  See [BTC Relay Incentives for Relayers](https://github.com/ethereum/btcrelay/tree/master#incentives-for-relayers)
+Everytime that a transaction is verified that's in a block header that you submit, you can earn some fees.  See [BTC Relay Incentives for Relayers.](https://github.com/ethereum/btcrelay/tree/master#incentives-for-relayers)
 
 ### Quick Start
 
